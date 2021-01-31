@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="signUp">สมัครใช้งาน</string>
+    <string name="btn_next">Next</string>
+</resources>
