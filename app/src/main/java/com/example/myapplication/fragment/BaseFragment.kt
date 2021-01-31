@@ -28,7 +28,6 @@ open class BaseFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         return super.onCreateView(inflater, container, savedInstanceState)
-        Log.i(logTag, "onCreateView")
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
